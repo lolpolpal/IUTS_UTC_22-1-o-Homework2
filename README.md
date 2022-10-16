@@ -1,1 +1,1 @@
-# IUTS_UTC_22-1-o-Homework2
+# Homework Number 2 for Programming
